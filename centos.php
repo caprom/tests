@@ -1,5 +1,5 @@
 <?php
-//cooments
+//comments
 echo "<p>Current User ID: ".getmyuid()."</p>";
 echo "<p>Current Group ID: ".getmygid()."</p>";
 echo "<p>Current PHP Process ID: ".getmypid()."</p>";
